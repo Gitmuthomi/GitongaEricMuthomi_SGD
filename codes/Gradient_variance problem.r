@@ -1,4 +1,4 @@
-#Plotting Variance of Gradients for Different Batch Sizes
+#Plotting Variance of Gradients for different Batch Sizes
 
 # Set seed for reproducibility
 set.seed(42)
